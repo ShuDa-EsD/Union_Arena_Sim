@@ -1,0 +1,12 @@
+{
+  "cardId": "HTR-1-005",
+  "cardName": "Test Training Ground",
+  "cardType": "Site",
+  "sourceMaterial": "HTR",
+  "affinities": [],
+  "requiredEnergy": { "color": "白", "amount": 1 },
+  "apCost": 1,
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [],
+  "keywords": []
+}

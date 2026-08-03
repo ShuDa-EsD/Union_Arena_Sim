@@ -1,0 +1,131 @@
+{
+  "Snipe": {
+    "description": "When attacking, may target a character on opponent's front line. Cannot be blocked.",
+    "abilities": [
+      {
+        "abilityId": "KEYWORD-SNIPE-1",
+        "timing": "WhenAttacking",
+        "costs": [],
+        "effects": [
+          { "effectType": "AllowTargetCharacter" },
+          { "effectType": "PreventBlock" }
+        ],
+        "isOptional": false
+      }
+    ]
+  },
+  "Impact 1": {
+    "description": "When this character wins a battle, deal 1 damage to opponent.",
+    "abilities": [
+      {
+        "abilityId": "KEYWORD-IMPACT1-1",
+        "timing": "WhenBattleWins",
+        "costs": [],
+        "effects": [
+          { "effectType": "DealDamage", "params": { "amount": 1 } }
+        ],
+        "isOptional": false
+      }
+    ]
+  },
+  "Impact +1": {
+    "description": "Increase Impact damage by 1. If no Impact, gain Impact 1.",
+    "abilities": [
+      {
+        "abilityId": "KEYWORD-IMPACT+1-1",
+        "timing": "WhenBattleWins",
+        "costs": [],
+        "effects": [
+          { "effectType": "DealDamage", "params": { "amount": 1, "bonus": true } }
+        ],
+        "isOptional": false
+      }
+    ]
+  },
+  "Damage 2": {
+    "description": "When attacking and not blocked, deal 2 damage instead of 1.",
+    "abilities": [
+      {
+        "abilityId": "KEYWORD-DAMAGE2-1",
+        "timing": "WhenNotBlocked",
+        "costs": [],
+        "effects": [
+          { "effectType": "SetDamageMultiplier", "params": { "amount": 2 } }
+        ],
+        "isOptional": false
+      }
+    ]
+  },
+  "Damage +1": {
+    "description": "Increase direct attack damage by 1.",
+    "abilities": [
+      {
+        "abilityId": "KEYWORD-DAMAGE+1-1",
+        "timing": "WhenNotBlocked",
+        "costs": [],
+        "effects": [
+          { "effectType": "ModifyDamage", "params": { "amount": 1 } }
+        ],
+        "isOptional": false
+      }
+    ]
+  },
+  "Double Attack": {
+    "description": "After this character's first attack each turn, switch it to Active.",
+    "abilities": [
+      {
+        "abilityId": "KEYWORD-DBLATK-1",
+        "timing": "EndOfBattle",
+        "condition": { "conditionType": "IsFirstAttackThisTurn" },
+        "costs": [],
+        "effects": [
+          { "effectType": "DoubleAttack" }
+        ],
+        "isOptional": false
+      }
+    ]
+  },
+  "Double Block": {
+    "description": "After this character's first block each turn, switch it to Active.",
+    "abilities": [
+      {
+        "abilityId": "KEYWORD-DBLBLK-1",
+        "timing": "EndOfBattle",
+        "condition": { "conditionType": "IsFirstBlockThisTurn" },
+        "costs": [],
+        "effects": [
+          { "effectType": "DoubleAttack" }
+        ],
+        "isOptional": false
+      }
+    ]
+  },
+  "Step": {
+    "description": "During your movement phase, may move from front line to energy line.",
+    "abilities": [
+      {
+        "abilityId": "KEYWORD-STEP-1",
+        "timing": "MovementPhase",
+        "costs": [],
+        "effects": [
+          { "effectType": "AllowReverseMovement" }
+        ],
+        "isOptional": false
+      }
+    ]
+  },
+  "Nullify Impact": {
+    "description": "During battle, opponent's character loses Impact.",
+    "abilities": [
+      {
+        "abilityId": "KEYWORD-NULLIMP-1",
+        "timing": "DuringBattle",
+        "costs": [],
+        "effects": [
+          { "effectType": "NullifyKeyword", "params": { "keyword": "Impact" } }
+        ],
+        "isOptional": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cardId": "HTR-1-016",
+  "cardName": "Test Battle Boost",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Support"],
+  "requiredEnergy": { "color": "白", "amount": 2 },
+  "apCost": 1,
+  "bp": { "base": 3000 },
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [
+    {
+      "abilityId": "HTR-1-016-ATK",
+      "timing": "WhenAttacking",
+      "costs": [],
+      "effects": [
+        { "effectType": "BpBuff", "params": { "amount": 2000 } }
+      ],
+      "isOptional": false
+    }
+  ],
+  "keywords": []
+}

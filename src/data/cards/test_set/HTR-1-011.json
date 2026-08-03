@@ -1,0 +1,21 @@
+{
+  "cardId": "HTR-1-011",
+  "cardName": "Test Banishment",
+  "cardType": "Event",
+  "sourceMaterial": "HTR",
+  "affinities": [],
+  "requiredEnergy": { "color": "白", "amount": 2 },
+  "apCost": 1,
+  "abilities": [
+    {
+      "abilityId": "HTR-1-011-ABL-1",
+      "timing": "WhenPlayed",
+      "costs": [],
+      "effects": [
+        { "effectType": "SidelineCharacter", "params": { "target": "OPPONENT_FRONTLINE_ANY" } }
+      ],
+      "isOptional": false
+    }
+  ],
+  "keywords": []
+}

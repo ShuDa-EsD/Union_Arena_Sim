@@ -1,0 +1,13 @@
+{
+  "cardId": "HTR-1-002",
+  "cardName": "Test Veteran",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Veteran"],
+  "requiredEnergy": { "color": "白", "amount": 1 },
+  "apCost": 1,
+  "bp": { "base": 4000 },
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [],
+  "keywords": []
+}

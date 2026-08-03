@@ -1,0 +1,3725 @@
+[
+    {
+        "type": "text",
+        "text": "TRADING CARD GAME UNION ARENM ユニオンアリーナ",
+        "text_level": 2,
+        "bbox": [
+            179,
+            388,
+            818,
+            613
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Official Rule Manual",
+        "text_level": 2,
+        "bbox": [
+            205,
+            875,
+            796,
+            917
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ver1.1",
+        "bbox": [
+            421,
+            917,
+            578,
+            958
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents",
+        "text_level": 2,
+        "bbox": [
+            406,
+            38,
+            591,
+            66
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Game Summary ...... 01\nThe Cards ...... 01\n  <Character Cards> ...... 01\n  <Site Cards> ...... 02\n  <Event Cards> ...... 03\n  <AP Cards> ...... 03\nYour Field ...... 04\nDecks ...... 05\nPreparing to Play ...... 05\nWinning the Game ...... 05\nActive and Resting ...... 06\nGame Flow ...... 07\n  <Start Phase> ...... 08\n  <Movement Phase> ...... 08\n  <Main Phase> ...... 09\n  <Attack Phase> ...... 11\n  <End Phase> ...... 13\nKeyword Abilities ...... 14\nGame Terms ...... 15",
+        "bbox": [
+            75,
+            126,
+            931,
+            777
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Game Summary",
+        "text_level": 2,
+        "bbox": [
+            347,
+            40,
+            650,
+            65
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Union Arena is a trading card game designed for two-player competition. Construct your own deck using characters from your favorite anime, games, or series, then battle against your opponent. If you can reduce their life to zero first, you win.",
+        "bbox": [
+            40,
+            84,
+            954,
+            149
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Cards",
+        "text_level": 2,
+        "bbox": [
+            396,
+            162,
+            601,
+            189
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Character Cards",
+        "text_level": 2,
+        "bbox": [
+            369,
+            214,
+            631,
+            237
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Character cards attack and block. When you play them onto your field, place them set to resting (horizontal).",
+        "bbox": [
+            40,
+            256,
+            954,
+            294
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "You can play character cards onto either your energy line or your front line, and they can later be moved during your movement phase.",
+        "bbox": [
+            38,
+            294,
+            954,
+            334
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a864fd753176c7b25f488f0de9f7330f7c094b93940960351dcfb9eb357dc50.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            38,
+            351,
+            480,
+            990
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Required Energy : A requirement for using the card. When playing character cards, confirm their required energy color and number. Your energy line must be generating that amount of energy or more in the appropriate color.\nThe color of the required energy determines the card's color.",
+        "bbox": [
+            482,
+            355,
+            932,
+            426
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AP Cost (Action Point Cost): The number of action points (AP) that are spent when using the card. You can play character cards onto your field by switching this number of AP cards to resting.",
+        "bbox": [
+            482,
+            431,
+            927,
+            489
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Card Name",
+        "text_level": 2,
+        "bbox": [
+            484,
+            495,
+            584,
+            511
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Affinities : A list of the affinities the character card possesses. Refer to this list when performing Raid or when instructed to do so by abilities on other cards.\n\\* Not all cards possess affinities.",
+        "bbox": [
+            482,
+            517,
+            929,
+            575
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Name of the Source Material",
+        "text_level": 2,
+        "bbox": [
+            484,
+            579,
+            729,
+            596
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Card Type",
+        "text_level": 2,
+        "bbox": [
+            484,
+            602,
+            579,
+            620
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Abilities : The particular abilities possessed by this character card.",
+        "bbox": [
+            484,
+            626,
+            887,
+            659
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Trigger : This ability can be activated when the card is in your life area and you reveal it by turning the card face up after taking damage. (Activation is optional.)",
+        "bbox": [
+            482,
+            663,
+            931,
+            708
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Energy Generation : Refer to these icons when using other cards. The number of energy generation icons present on your energy line determines how much energy you are generating in each of those colors.",
+        "bbox": [
+            482,
+            715,
+            931,
+            770
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A plus sign next to the energy generation icon indicates that the card has an effect that may increase the amount of its energy generation.",
+        "bbox": [
+            484,
+            769,
+            927,
+            809
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\\* Energy generation icons belonging to cards on the front line are ignored.",
+        "bbox": [
+            484,
+            808,
+            905,
+            837
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BP (Battle Points): This value is primarily used during battles. Sideline any character that has their BP reduced to zero or less by an ability. BP values may be accompanied by a plus sign if abilities on that card have the potential to increase it.",
+        "bbox": [
+            482,
+            843,
+            932,
+            914
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Card Number : No more than four cards with the same card number may be included in a deck.",
+        "bbox": [
+            482,
+            921,
+            926,
+            953
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            979,
+            312,
+            1000
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "01",
+        "bbox": [
+            946,
+            969,
+            973,
+            984
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Site Cards",
+        "text_level": 2,
+        "bbox": [
+            403,
+            36,
+            579,
+            59
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Site cards generally provide support while they are on your field. When you play them onto your field, place them set to resting (horizontal). Site cards can only be played onto your energy line. They cannot be moved to your front line.",
+        "bbox": [
+            38,
+            76,
+            954,
+            137
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7866b7bbd39ed981aec370fe9bbcb8eb29d3369abbc6ac8af221986df16d5726.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            47,
+            156,
+            470,
+            769
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rarity",
+        "text_level": 2,
+        "bbox": [
+            248,
+            646,
+            327,
+            665
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Required Energy : A requirement for using the card. When playing site cards, confirm their required energy color and number. Your energy line must be generating that amount of energy or more in the appropriate color.\nThe color of the required energy determines the card's color.",
+        "bbox": [
+            478,
+            156,
+            954,
+            269
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AP Cost (Action Point Cost) : The number of action points (AP) that are spent when using the card. You can play site cards onto your field by switching this number of AP cards to resting.",
+        "bbox": [
+            478,
+            277,
+            951,
+            346
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Card Name",
+        "text_level": 2,
+        "bbox": [
+            480,
+            356,
+            598,
+            374
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Affinities : A list of the affinities the site card possesses. Refer to this list when instructed to do so by abilities on other cards.\n\\* Not all cards possess affinities.",
+        "bbox": [
+            480,
+            386,
+            939,
+            454
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Name of the Source Material",
+        "bbox": [
+            480,
+            458,
+            771,
+            476
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Card Type",
+        "text_level": 2,
+        "bbox": [
+            480,
+            481,
+            591,
+            500
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abilities : The particular abilities possessed by this site card.",
+        "bbox": [
+            480,
+            506,
+            954,
+            542
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Trigger : This ability can be activated when the card is in your life area and you turn it face up after taking damage. (Activation is optional.)",
+        "bbox": [
+            480,
+            548,
+            939,
+            600
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Energy Generation : Refer to these icons when using other cards. The number of energy generation icons present on your energy line determines how much energy you are generating in each of those colors.",
+        "bbox": [
+            480,
+            602,
+            949,
+            683
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A plus sign next to the energy generation icon indicates that the card has an effect that may increase the amount of its energy generation.",
+        "bbox": [
+            480,
+            683,
+            927,
+            732
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Card Number : No more than four cards with the same card number may be included in a deck.",
+        "bbox": [
+            480,
+            736,
+            966,
+            771
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            977,
+            312,
+            1000
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "02",
+        "bbox": [
+            946,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Event Cards",
+        "text_level": 2,
+        "bbox": [
+            398,
+            36,
+            601,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Use event cards to activate their abilities. Afterwards, place these cards into your sideline.",
+        "bbox": [
+            38,
+            76,
+            954,
+            117
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7b31d43a9f22877a5ad113d928a5d8284d82ba330c8ee2e3c6d52427245ebce.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            45,
+            123,
+            473,
+            611
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Required Energy : A requirement for using the card. When using event cards, confirm their required energy color and number. Your energy line must be generating that amount of energy or more in the appropriate color.\nThe color of the required energy determines the card's color.",
+        "bbox": [
+            478,
+            120,
+            954,
+            234
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AP Cost (Action Point Cost) : The number of action points (AP) that are spent when using the card. You can use event cards by switching this number of AP cards to resting.",
+        "bbox": [
+            478,
+            244,
+            952,
+            313
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Card Name",
+        "text_level": 2,
+        "bbox": [
+            480,
+            322,
+            600,
+            342
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Affinities : A list of the affinities the event card possesses. Refer to this list when instructed to do so by abilities on other cards.\n\\* Not all cards possess affinities.",
+        "bbox": [
+            478,
+            351,
+            939,
+            420
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Name of the Source Material",
+        "text_level": 2,
+        "bbox": [
+            480,
+            432,
+            771,
+            453
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Card Type",
+        "text_level": 2,
+        "bbox": [
+            480,
+            461,
+            593,
+            481
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abilities : The particular abilities possessed by this event card.",
+        "bbox": [
+            480,
+            487,
+            919,
+            523
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Trigger : This ability can be activated when the card is in your life area and you turn it face up after taking damage. (Activation is optional.)",
+        "bbox": [
+            480,
+            525,
+            939,
+            577
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Card Number : No more than four cards with the same card number may be included in a deck.",
+        "bbox": [
+            478,
+            602,
+            964,
+            637
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AP Cards",
+        "text_level": 2,
+        "bbox": [
+            421,
+            665,
+            576,
+            688
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AP cards (action point cards) are primarily used for paying the action points (AP) needed when using other cards.\nTo pay 1 AP, take one active (vertical) AP card and switch it to resting (turn it horizontally).",
+        "bbox": [
+            38,
+            712,
+            680,
+            793
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/13c0629a9226a93ca4e78a0cc97d8534c4e5c6b66bb98d990e9b1f71f74a40b2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            695,
+            712,
+            954,
+            966
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            976,
+            312,
+            1000
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            591,
+            984,
+            800,
+            1000
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "03",
+        "bbox": [
+            946,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Your Field",
+        "text_level": 1,
+        "bbox": [
+            384,
+            38,
+            594,
+            64
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1205fcb47cecf5456c190e410d4ad2e0be4353da0797c2291e68fe5cb099cfc5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            129,
+            104,
+            850,
+            406
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 Front Line",
+        "text_level": 2,
+        "bbox": [
+            43,
+            431,
+            189,
+            449
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "You can place character cards onto your front line and then use those characters to attack and block.",
+        "bbox": [
+            65,
+            451,
+            873,
+            488
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Up to four character cards can be placed onto your front line.",
+        "bbox": [
+            67,
+            492,
+            657,
+            508
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "\\* Site cards cannot be placed onto the front line.",
+        "bbox": [
+            65,
+            512,
+            485,
+            527
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 Energy Line",
+        "text_level": 2,
+        "bbox": [
+            42,
+            537,
+            211,
+            555
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "You can place both character and site cards onto your energy line. Only energy generation from cards on the energy line can be used to fulfill the required energy of other cards.\nUp to four character or site cards in any combination can be placed onto your energy line.\n\\* Your front line and your energy line together are called your field.",
+        "bbox": [
+            63,
+            557,
+            927,
+            634
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Life Area",
+        "text_level": 2,
+        "bbox": [
+            42,
+            643,
+            179,
+            659
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Your life area is where you place the cards that represent your life. Start each game with seven cards placed face down in your life area.",
+        "bbox": [
+            63,
+            662,
+            887,
+            700
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 AP Area (Action Point Area)",
+        "text_level": 2,
+        "bbox": [
+            42,
+            708,
+            389,
+            726
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Place your AP cards here.",
+        "bbox": [
+            67,
+            728,
+            322,
+            745
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 Deck Area",
+        "text_level": 2,
+        "bbox": [
+            43,
+            749,
+            194,
+            766
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Place your deck here.",
+        "bbox": [
+            67,
+            769,
+            280,
+            785
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 Sideline",
+        "text_level": 2,
+        "bbox": [
+            42,
+            794,
+            164,
+            810
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Used event cards as well as sidelined character and site cards are all placed here face up.",
+        "bbox": [
+            65,
+            813,
+            931,
+            831
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7 Removal Area",
+        "text_level": 2,
+        "bbox": [
+            42,
+            839,
+            233,
+            856
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cards you are instructed to place into your removal area are placed here face up. Once a card has been placed into your removal area, it is essentially removed from the game permanently.",
+        "bbox": [
+            63,
+            858,
+            915,
+            916
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "04",
+        "bbox": [
+            946,
+            969,
+            974,
+            984
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "-",
+        "bbox": [
+            203,
+            984,
+            310,
+            1000
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Decks",
+        "text_level": 2,
+        "bbox": [
+            436,
+            39,
+            561,
+            65
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The following items are required to play Union Arena.",
+        "bbox": [
+            40,
+            90,
+            623,
+            111
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "● A deck containing exactly 50 cards, constructed according to the rules listed below.",
+        "text_level": 2,
+        "bbox": [
+            42,
+            116,
+            946,
+            160
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\\- All cards must possess the same source material code (the first three letters of the card number).",
+        "bbox": [
+            62,
+            165,
+            715,
+            205
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\\- No more than four copies of any cards with the same card number.\nFor example, if you are using the card UA03BT/HTR-1-001 in your deck, you may include up to 4 cards with the card number HTR-1-001, and all 50 cards in your deck must have the source material code HTR.",
+        "bbox": [
+            62,
+            212,
+            951,
+            284
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\\- Cards with SPECIAL COLOR and FINAL triggers are restricted to no more than four cards for each trigger type.\nFor example, if Card A and Card B both have SPECIAL triggers, then the combined total of Card A and Card B in a deck cannot exceed four copies.",
+        "bbox": [
+            62,
+            287,
+            929,
+            360
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "- Three AP cards.",
+        "text_level": 2,
+        "bbox": [
+            43,
+            370,
+            312,
+            394
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Preparing to Play",
+        "text_level": 2,
+        "bbox": [
+            319,
+            420,
+            677,
+            449
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 Shuffle your deck and place it in the deck area.",
+        "bbox": [
+            45,
+            470,
+            586,
+            493
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2 Determine Player One and Player Two by using a method such as rock paper scissors.",
+        "bbox": [
+            45,
+            499,
+            964,
+            521
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 Draw seven cards from your deck to create your starting hand.",
+        "bbox": [
+            45,
+            527,
+            757,
+            550
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 You may mulligan your starting hand one time if desired. If you choose to draw a new hand, place your initial hand on the bottom of the deck and draw seven new cards. Then, reshuffle your deck.",
+        "bbox": [
+            45,
+            557,
+            954,
+            617
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\\* Player One decides first if they will mulligan, followed by Player Two.",
+        "bbox": [
+            77,
+            617,
+            847,
+            637
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 Take seven cards from the top of your deck and place them face down into your life area without revealing them.",
+        "bbox": [
+            43,
+            645,
+            954,
+            688
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 Begin play with Player One taking their first turn.",
+        "bbox": [
+            45,
+            694,
+            605,
+            717
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Winning the Game",
+        "text_level": 2,
+        "bbox": [
+            319,
+            747,
+            678,
+            775
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "You win the game if either of the following conditions occurs.",
+        "bbox": [
+            40,
+            794,
+            707,
+            816
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\\- Your opponent has no cards remaining in their life area.",
+        "bbox": [
+            40,
+            822,
+            865,
+            846
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\\- Your opponent has no cards remaining in their deck during their start phase and is therefore unable to draw a card.",
+        "bbox": [
+            40,
+            851,
+            909,
+            897
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            978,
+            312,
+            1000
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "05",
+        "bbox": [
+            946,
+            967,
+            976,
+            984
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Characters and sites on your field are “active” when placed vertically and “resting” when placed horizontally.",
+        "bbox": [
+            40,
+            89,
+            949,
+            131
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/318e2fd46280891f715e8dc99479ee4ef3cef343c1efaac0ca66f926eaa8bd88.jpg",
+        "image_caption": [
+            "Active"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            248,
+            153,
+            408,
+            307
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/46dfa6e05afda4440f7347a702d492d90bab9deb21027bfb93dfd439fef8f0ed.jpg",
+        "image_caption": [
+            "Rest"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            527,
+            175,
+            749,
+            288
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Character cards and site cards are played onto your field set to resting. Only active characters can attack or block, and you switch them to resting when you perform an attack or block.",
+        "bbox": [
+            38,
+            348,
+            956,
+            407
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Active and Resting",
+        "bbox": [
+            305,
+            39,
+            692,
+            66
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            977,
+            312,
+            1000
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "06",
+        "bbox": [
+            944,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Game Flow",
+        "text_level": 1,
+        "bbox": [
+            388,
+            40,
+            611,
+            64
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Player One takes the first turn. Turns proceed in the following order.",
+        "text_level": 2,
+        "bbox": [
+            40,
+            90,
+            769,
+            111
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Start Phase",
+        "text_level": 2,
+        "bbox": [
+            95,
+            127,
+            258,
+            146
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1 Abilities that state they are active until the start of your next turn, and other similarly phrased abilities, become inactive.",
+        "bbox": [
+            107,
+            158,
+            954,
+            192
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2 Switch all of your resting cards (characters, sites, and AP cards) to active.",
+        "bbox": [
+            107,
+            193,
+            729,
+            210
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 Make sure you have the appropriate number of AP cards in your AP area for the current turn.\n(More details on the next page.)",
+        "bbox": [
+            107,
+            211,
+            875,
+            240
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4 Draw a card. (Player One does not draw a card on their first turn.)",
+        "bbox": [
+            107,
+            243,
+            658,
+            259
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 Once per turn, you may pay 1 AP to take an extra draw if you wish, drawing one additional card. To pay 1 AP, take one active AP card and switch it to resting.\n(Player One may take an extra draw on their first turn.)",
+        "bbox": [
+            107,
+            260,
+            954,
+            307
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Movement Phase",
+        "text_level": 2,
+        "bbox": [
+            97,
+            319,
+            319,
+            338
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "You may move as many characters as you like from your energy line to your front line.",
+        "bbox": [
+            107,
+            349,
+            875,
+            363
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\* If a movement destination already holds four cards and has no space available, choose one card on that destination for each character you wish to move and place the chosen cards into your removal area first.",
+        "bbox": [
+            107,
+            363,
+            961,
+            388
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\* Sites cannot be moved.",
+        "bbox": [
+            110,
+            387,
+            270,
+            401
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Main Phase",
+        "text_level": 2,
+        "bbox": [
+            99,
+            409,
+            250,
+            428
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "You may perform actions A and B listed below any number of times and in any order you like.",
+        "bbox": [
+            107,
+            443,
+            931,
+            458
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A : Use a Card",
+        "bbox": [
+            107,
+            461,
+            270,
+            478
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\- Play a character card",
+        "bbox": [
+            136,
+            479,
+            344,
+            494
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "•Perform Raid with a character card",
+        "bbox": [
+            136,
+            495,
+            463,
+            512
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\- Play a site card",
+        "bbox": [
+            137,
+            514,
+            292,
+            530
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\- Use an event card",
+        "bbox": [
+            137,
+            532,
+            312,
+            548
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cards in your hand can be used if you have the required energy and pay their AP cost. Play character cards and site cards onto your field set to resting.",
+        "bbox": [
+            134,
+            548,
+            963,
+            581
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "B: Use the Activate: Main Ability of a Card on Your Field",
+        "text_level": 2,
+        "bbox": [
+            110,
+            595,
+            707,
+            613
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "You can activate abilities labeled Activate: Main on cards on your field by fulfilling their requirements.",
+        "bbox": [
+            109,
+            615,
+            931,
+            634
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Attack Phase",
+        "text_level": 2,
+        "bbox": [
+            99,
+            651,
+            277,
+            670
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "You can attack with one active character on your front line at a time, and you must switch it to resting when it attacks. If you still have active characters after you complete an attack, you may attack with those characters in the same manner.",
+        "bbox": [
+            105,
+            684,
+            951,
+            734
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\* You may only target your opponent (the player) with your attack.",
+        "bbox": [
+            107,
+            738,
+            581,
+            753
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\* Cards cannot be used during your attack phase.",
+        "bbox": [
+            109,
+            752,
+            463,
+            766
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\* You do not pay AP when attacking.",
+        "bbox": [
+            107,
+            766,
+            371,
+            778
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "End Phase",
+        "text_level": 2,
+        "bbox": [
+            100,
+            791,
+            240,
+            810
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1 If there are any abilities that activate at the start of the end phase, activate and resolve them now.",
+        "bbox": [
+            107,
+            822,
+            919,
+            839
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2 Switch all resting characters and sites on your field to active.",
+        "bbox": [
+            107,
+            840,
+            625,
+            856
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 If you have more than eight cards in your hand, choose eight cards to keep. Place the remaining cards into your removal area.",
+        "bbox": [
+            107,
+            858,
+            944,
+            889
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4 Any abilities that state they are active until the end of the turn now become inactive.",
+        "bbox": [
+            107,
+            890,
+            806,
+            907
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Opponent's Turn Begins",
+        "text_level": 2,
+        "bbox": [
+            102,
+            921,
+            487,
+            940
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            984,
+            310,
+            1000
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "07",
+        "bbox": [
+            946,
+            969,
+            974,
+            984
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1 Start Phase",
+        "text_level": 2,
+        "bbox": [
+            57,
+            35,
+            339,
+            61
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Proceed through the start phase in the following order.",
+        "bbox": [
+            40,
+            79,
+            600,
+            97
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1 Abilities that state they are active until the start of your next turn, and other similarly phrased abilities, become inactive.",
+        "bbox": [
+            42,
+            102,
+            899,
+            139
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2 Switch all of your resting cards (characters, sites, and AP cards) to active.",
+        "bbox": [
+            40,
+            141,
+            786,
+            158
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3 Make sure the number of AP cards in your AP area matches the number listed in the table below. Set AP cards to active when placing them.",
+        "bbox": [
+            42,
+            159,
+            934,
+            193
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\\* The number of cards varies for Player One and Player Two.",
+        "bbox": [
+            62,
+            193,
+            594,
+            210
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a37b376777ed9be924ee4bf56bfee8fe60fb83d5097a184af0343ce3c116bec4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td>Turn 1</td><td>Turn 2</td><td>Turn 3</td></tr><tr><td>Player One</td><td>1 card</td><td>2 cards</td><td>3 cards</td></tr><tr><td>Player Two</td><td>2 cards</td><td>2 cards</td><td>3 cards</td></tr></table>",
+        "bbox": [
+            43,
+            214,
+            374,
+            275
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4 Draw a card. (Player One does not draw a card on their first turn.)",
+        "bbox": [
+            40,
+            286,
+            569,
+            302
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 You may pay 1 AP to draw one additional card if you wish (extra draw). (Once per turn)\n(Player One may take an extra draw on their first turn.)",
+        "bbox": [
+            40,
+            307,
+            907,
+            338
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2 Movement Phase",
+        "text_level": 2,
+        "bbox": [
+            55,
+            348,
+            423,
+            373
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "You may move as many characters as you like from your energy line to your front line during your movement phase, but you may not move characters from your front line to your energy line.",
+        "bbox": [
+            40,
+            392,
+            971,
+            426
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "All movements occur simultaneously.",
+        "bbox": [
+            40,
+            428,
+            406,
+            444
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\\* Sites cannot be moved.",
+        "bbox": [
+            40,
+            447,
+            287,
+            464
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\\* Characters with Step can be moved from the front line to the energy line.",
+        "bbox": [
+            40,
+            464,
+            803,
+            483
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\\* If a movement destination already holds four cards and has no space available, choose one card on that destination for each character you wish to move and place the chosen cards into your removal area first. Movements occurring outside of the movement phase are handled the same way.",
+        "bbox": [
+            40,
+            483,
+            949,
+            554
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\\* If you are moving a character with Step from your front line to your energy line and the destination is full, you may choose to have it trade places with another character on your energy line rather than placing that other character into your removal area.",
+        "bbox": [
+            40,
+            556,
+            971,
+            602
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "\\* Characters without Step cannot be moved to the energy line.",
+        "bbox": [
+            40,
+            608,
+            727,
+            626
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Example:",
+        "bbox": [
+            58,
+            634,
+            139,
+            650
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "▼ field",
+        "bbox": [
+            60,
+            653,
+            122,
+            669
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0116011a6cdcc76a33811e76b9fd2ecbc8afdecc2ffa02461743f1d71ba9ecf7.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "\\* Field cards cannot move."
+        ],
+        "content": "",
+        "bbox": [
+            3,
+            644,
+            971,
+            988
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "-",
+        "bbox": [
+            203,
+            980,
+            312,
+            1000
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "08",
+        "bbox": [
+            946,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3 Main Phase",
+        "text_level": 2,
+        "bbox": [
+            53,
+            36,
+            326,
+            61
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A : Use a Card",
+        "text_level": 2,
+        "bbox": [
+            40,
+            80,
+            242,
+            101
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Playing Character Cards",
+        "text_level": 2,
+        "bbox": [
+            53,
+            110,
+            401,
+            130
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "You can play character cards from your hand onto either your front line or your energy line.",
+        "bbox": [
+            40,
+            141,
+            922,
+            160
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Start by confirming that you have the required energy for the character card you wish to play. Your energy line must be generating enough energy in the same color as the required energy shown on that card.",
+        "bbox": [
+            38,
+            171,
+            954,
+            225
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Next, pay the AP cost of the character card you wish to play.",
+        "bbox": [
+            40,
+            242,
+            631,
+            260
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Do so by switching that number of active AP cards to resting.",
+        "bbox": [
+            40,
+            261,
+            633,
+            278
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Finally, place the desired character card from your hand set to resting onto either your energy line or your front line.",
+        "bbox": [
+            38,
+            284,
+            952,
+            325
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Example:",
+        "text_level": 2,
+        "bbox": [
+            43,
+            334,
+            122,
+            349
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "▼Field",
+        "text_level": 2,
+        "bbox": [
+            43,
+            354,
+            107,
+            369
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0ddc767a84b06e4f2044957553491797fb69b9290b047700081752a352185d3.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "\\* Energy Generation doesn't count for cards on your Front Line."
+        ],
+        "content": "",
+        "bbox": [
+            174,
+            351,
+            295,
+            466
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Front Line",
+        "text_level": 2,
+        "bbox": [
+            43,
+            467,
+            161,
+            483
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Energy Line",
+        "text_level": 2,
+        "bbox": [
+            45,
+            491,
+            176,
+            507
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/996217ecff317e9b9535556563c7629d4495bc01cabebb0c3a7d71075c269283.jpg",
+        "image_caption": [
+            "▼Hand"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            539,
+            382,
+            931,
+            535
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/afbe2063e6176d845875010d5a6b9fe1d643d3b116a051627a878cc1c4a2dba6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            97,
+            501,
+            418,
+            624
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The total Required Energy is ⚪x3",
+        "text_level": 2,
+        "bbox": [
+            58,
+            631,
+            472,
+            649
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/b86f596441997ad17b2be4dbb2d3e47d3fa84bcc54d45c652a15627a652bf88b.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "You have 🟢x3 Energy Generation on your field, so a card with a Required Energy of 🟢 or less from your hand will satisfy the Required Energy conditions."
+        ],
+        "content": "",
+        "bbox": [
+            413,
+            630,
+            436,
+            648
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "\\* When playing a character card, if the destination line already holds its maximum of four cards, start by placing one card from that line into your removal area. Cards on the field can only be placed into your removal area when a line is full.",
+        "bbox": [
+            40,
+            653,
+            949,
+            699
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Performing Raid with a Character Card",
+        "text_level": 2,
+        "bbox": [
+            52,
+            718,
+            618,
+            739
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In addition to playing them normally, character cards with Raid may be used to perform Raid. You can do so by declaring a Raid and placing the card on top of a specified character that does not possess Raid.",
+        "bbox": [
+            38,
+            753,
+            954,
+            807
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Character specifications are listed to the right of the Raid symbol, and their type can vary depending on the enclosing brackets.",
+        "bbox": [
+            38,
+            807,
+            952,
+            843
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "<ABC> indicates cards with the name ABC.",
+        "bbox": [
+            55,
+            860,
+            436,
+            877
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Example:",
+        "bbox": [
+            616,
+            853,
+            694,
+            868
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[XYZ] indicates cards with the affinity XYZ.",
+        "bbox": [
+            55,
+            878,
+            436,
+            896
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Raid <Gon Freecss> Switch to active. May move to the front line.",
+        "bbox": [
+            621,
+            869,
+            944,
+            887
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "\\* When performing Raid with a card in your hand, you must have the required energy for that card and pay its AP cost.",
+        "bbox": [
+            55,
+            898,
+            939,
+            929
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "\\* You cannot perform Raid using an ability that instructs you to \"play\" a card. You can only perform Raid using abilities that instruct you to \"perform Raid.\"",
+        "bbox": [
+            55,
+            928,
+            961,
+            959
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "09",
+        "bbox": [
+            946,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            984,
+            310,
+            1000
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Follow the steps below when performing Raid.",
+        "bbox": [
+            38,
+            29,
+            552,
+            46
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1 Place the card on top of a specified character.",
+        "bbox": [
+            58,
+            51,
+            593,
+            68
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2 Abilities applying to the character under the Raid card no longer apply, and abilities on that character become inactive.",
+        "bbox": [
+            57,
+            72,
+            848,
+            111
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3 If the character is resting, switch it to active.",
+        "bbox": [
+            58,
+            114,
+            579,
+            131
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4 That character may be moved to the front line if it is on the energy line.",
+        "bbox": [
+            58,
+            136,
+            853,
+            155
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 When Played abilities on the character performing Raid activate.",
+        "bbox": [
+            58,
+            156,
+            749,
+            175
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "\\* Cards with 📄 Raid may also be played normally. However, any abilities contained within the 📄 Raid description are lost.",
+        "bbox": [
+            40,
+            179,
+            858,
+            208
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/16918faa57fa80a5c567a5c5575cde39e606118d1f5fe7a74caf1a79902ce258.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            636,
+            211,
+            763,
+            329
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Front Line",
+        "text_level": 2,
+        "bbox": [
+            72,
+            324,
+            206,
+            343
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Energy Line",
+        "text_level": 2,
+        "bbox": [
+            73,
+            349,
+            221,
+            367
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/82a58abc8f4d34b9b8b5a853449516da68655c71f573134dd8dfbb04f6233338.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Raid Boost a card\nby stacking the cards!",
+            "You can switch the powered up Character to Active Mode and move it to your Front Line!"
+        ],
+        "content": "",
+        "bbox": [
+            245,
+            351,
+            421,
+            444
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Playing Site Cards",
+        "text_level": 2,
+        "bbox": [
+            55,
+            498,
+            327,
+            519
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Site cards in your hand may be played onto your energy line.",
+        "bbox": [
+            38,
+            529,
+            625,
+            546
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Start by confirming that you have the required energy for the site card you wish to play.\nYour energy line must be generating enough energy in the same color as the required energy shown on that card.",
+        "bbox": [
+            38,
+            548,
+            966,
+            602
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Next, pay the AP cost of the site card you wish to play.",
+        "bbox": [
+            38,
+            605,
+            571,
+            621
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Do so by switching that number of active AP cards to resting.",
+        "bbox": [
+            38,
+            624,
+            631,
+            640
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Finally, place the desired site card from your hand set to resting onto your energy line.",
+        "bbox": [
+            38,
+            643,
+            872,
+            659
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "\\* When playing a site card, if the energy line already holds its maximum of four cards, start by placing one card from that line into your removal area. Cards on the field can only be placed into your removal area when a line is full.",
+        "bbox": [
+            40,
+            663,
+            956,
+            709
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "\\* Site cards cannot be played onto the front line.",
+        "bbox": [
+            40,
+            709,
+            512,
+            726
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Using Event Cards",
+        "text_level": 2,
+        "bbox": [
+            55,
+            738,
+            324,
+            758
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "You can use event cards from your hand and activate their abilities.",
+        "bbox": [
+            38,
+            769,
+            694,
+            787
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Start by confirming that you have the required energy for the event card you wish to use.",
+        "bbox": [
+            38,
+            789,
+            897,
+            807
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Your energy line must be generating enough energy in the same color as the required energy shown on that card.",
+        "bbox": [
+            38,
+            809,
+            951,
+            846
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Next, pay the AP cost of the event card you wish to use.",
+        "bbox": [
+            38,
+            850,
+            584,
+            866
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Since event cards are not placed onto your field, you can use them regardless of whether your front line and energy line are full.",
+        "bbox": [
+            38,
+            870,
+            951,
+            908
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Do so by switching that number of active AP cards to resting.",
+        "bbox": [
+            38,
+            910,
+            631,
+            928
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Finally, activate the ability on the event card. After that ability is resolved, place the event card into your sideline.",
+        "bbox": [
+            36,
+            929,
+            952,
+            967
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "10",
+        "bbox": [
+            947,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            984,
+            310,
+            1000
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "B : Use the Activate: Main Ability of a Card on Your Field",
+        "text_level": 2,
+        "bbox": [
+            40,
+            41,
+            796,
+            64
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "You can activate abilities labeled Activate: Main on cards on your field by fulfilling their conditions.\nAbilities that state Once Per Turn can be activated one time during that turn for each copy of the card with that ability on your field.",
+        "bbox": [
+            40,
+            72,
+            952,
+            129
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "\\* If you remove a card from your field after activating its Once Per Turn ability, then play it onto your field again, it is treated as a separate card, so the Once Per Turn ability may be used one more time.",
+        "bbox": [
+            40,
+            131,
+            941,
+            165
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Examples) Activate: Main",
+        "bbox": [
+            53,
+            175,
+            270,
+            193
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Simply declare activation to activate the ability.",
+        "bbox": [
+            376,
+            175,
+            749,
+            193
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Activate: Main Switch to Resting",
+        "bbox": [
+            67,
+            200,
+            339,
+            219
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Switch this active card to resting to activate the ability.",
+        "bbox": [
+            376,
+            202,
+            810,
+            221
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Activate: Main Place①CardFromHandIntoSideline",
+        "bbox": [
+            62,
+            231,
+            361,
+            247
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Place one card from your hand into your sideline to activate the ability.",
+        "bbox": [
+            376,
+            228,
+            924,
+            247
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Activate: Main Pay①AP",
+        "bbox": [
+            65,
+            258,
+            282,
+            275
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pay 1 AP to activate the ability.",
+        "bbox": [
+            376,
+            255,
+            628,
+            273
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Activate: Main SidelineThisCard",
+        "bbox": [
+            63,
+            281,
+            341,
+            298
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Sideline this card to activate the ability.",
+        "bbox": [
+            376,
+            281,
+            687,
+            300
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "When several conditions are present, all of them must be fulfilled in order to activate the ability.",
+        "bbox": [
+            40,
+            313,
+            956,
+            332
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Example)",
+        "bbox": [
+            55,
+            351,
+            132,
+            369
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Activate: Main SwitchtoResting Pay①AP SidelineThisCard",
+        "text_level": 2,
+        "bbox": [
+            156,
+            355,
+            821,
+            376
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Switch this active card to resting, pay 1 AP, and sideline the card to activate the ability.",
+        "bbox": [
+            53,
+            382,
+            900,
+            401
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4 Attack Phase",
+        "text_level": 2,
+        "bbox": [
+            53,
+            445,
+            364,
+            473
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "During this phase, you can choose to attack your opponent with characters on your front line. If there is no action taken, the phase immediately ends.",
+        "bbox": [
+            38,
+            495,
+            954,
+            537
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Attack Phase Flow",
+        "bbox": [
+            48,
+            552,
+            245,
+            571
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Proceed through the actions listed below.",
+        "bbox": [
+            40,
+            587,
+            443,
+            607
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Attacking Character Declaration",
+        "text_level": 2,
+        "bbox": [
+            53,
+            614,
+            529,
+            636
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Select an active character on your front line to attack with, then switch that character to resting in order to attack your opponent with it.",
+        "bbox": [
+            95,
+            651,
+            952,
+            689
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "If the character has Snipe, you may instead target a character on your opponent's front line to attack. If the attacking character has any When Attacking abilities, or any other abilities that activate when it attacks, resolve them now.",
+        "bbox": [
+            95,
+            690,
+            954,
+            747
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Blocking Character Declaration",
+        "text_level": 2,
+        "bbox": [
+            53,
+            766,
+            510,
+            790
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The attacked player may choose to block that attack with a character. They do this by selecting an active character on their front line as a blocker and switching it to resting.",
+        "bbox": [
+            95,
+            807,
+            954,
+            844
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "If no blocker is selected, resolve any abilities on the attacking character that activate when not blocked. Otherwise, resolve any When Blocking abilities on the blocking character.",
+        "bbox": [
+            95,
+            857,
+            954,
+            892
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "\\* When abilities such as Snipe target a character and it is therefore not blocking, When Blocking abilities and other abilities that normally activate during blocking will not activate.",
+        "bbox": [
+            97,
+            892,
+            942,
+            927
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Go to the next page.",
+        "bbox": [
+            43,
+            941,
+            275,
+            960
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            984,
+            310,
+            1000
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "11",
+        "bbox": [
+            947,
+            969,
+            974,
+            984
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Attack Resolution",
+        "text_level": 2,
+        "bbox": [
+            55,
+            65,
+            326,
+            87
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Resolve the attack in one of the following two manners, depending on the target of the attack.",
+        "bbox": [
+            95,
+            101,
+            969,
+            121
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "【Attacking a Character】",
+        "text_level": 2,
+        "bbox": [
+            100,
+            128,
+            448,
+            152
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A battle occurs. Compare the BP of both characters then follow resolution method A or B listed below, depending on the result.",
+        "bbox": [
+            114,
+            154,
+            963,
+            191
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\\* Neither character's BP changes as a result of the battle.",
+        "bbox": [
+            115,
+            191,
+            643,
+            209
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A: The BP of the Attacking Character is Equal to or Greater than the BP of the Character Being Attacked",
+        "text_level": 2,
+        "bbox": [
+            95,
+            214,
+            968,
+            235
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The attacking character wins the battle and the character being attacked loses. Follow the steps below to finish resolving the battle.",
+        "bbox": [
+            95,
+            237,
+            957,
+            275
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "① Sideline the character being attacked.",
+        "bbox": [
+            114,
+            275,
+            515,
+            296
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "②Resolve any When Sidelined abilities on that character and any other abilities that activate when that character is sidelined.",
+        "bbox": [
+            112,
+            298,
+            897,
+            338
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "③Resolve any of your abilities that activate when you win a battle.",
+        "bbox": [
+            114,
+            341,
+            773,
+            360
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Example: Impact ① , or any other abilities that activate when a character attacks and wins a battle.",
+        "bbox": [
+            126,
+            362,
+            959,
+            382
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "B:The BP of the Attacking Character is Less than the BP of the Character Being Attacked",
+        "text_level": 2,
+        "bbox": [
+            95,
+            384,
+            966,
+            405
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The character being attacked wins the battle, and the attacking character loses. Follow the steps below to finish resolving the battle.",
+        "bbox": [
+            95,
+            407,
+            954,
+            445
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "① Resolve any abilities that activate when your character attacks and loses a battle.",
+        "bbox": [
+            114,
+            449,
+            944,
+            469
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "②Resolve any of your opponent's abilities that activate when they win a battle.",
+        "bbox": [
+            112,
+            470,
+            870,
+            489
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\\* The attacking character is not sidelined after losing.",
+        "bbox": [
+            114,
+            492,
+            589,
+            511
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "After completing resolution method A or B, the battle ends. Perform the actions listed below.",
+        "text_level": 2,
+        "bbox": [
+            95,
+            521,
+            966,
+            544
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\\- If there are any abilities that activate at the end of the battle, resolve them now.",
+        "bbox": [
+            95,
+            546,
+            890,
+            565
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\\- Any abilities that were active only for the duration of this battle now become inactive.",
+        "bbox": [
+            95,
+            570,
+            944,
+            590
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[Attacking Your Opponent]",
+        "text_level": 2,
+        "bbox": [
+            100,
+            605,
+            490,
+            630
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Deal 1 damage to your opponent. If your character has damage ②, deal 2 damage.",
+        "bbox": [
+            112,
+            633,
+            905,
+            653
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "★When a Player Takes Damage★",
+        "text_level": 2,
+        "bbox": [
+            99,
+            657,
+            487,
+            677
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The player dealing damage selects one card in the damaged player's life area for each point of damage dealt. The damaged player then checks for triggers on all of those cards.",
+        "bbox": [
+            117,
+            678,
+            944,
+            712
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "If your opponent has no life remaining after they have finished checking for triggers, you win the game.",
+        "bbox": [
+            112,
+            712,
+            931,
+            747
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Checking for Triggers",
+        "text_level": 2,
+        "bbox": [
+            126,
+            765,
+            445,
+            787
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Turn the card face up and confirm whether or not it has a trigger. If it does, the player checking for triggers may activate its ability if they wish. The card is then placed into the owner's sideline after the trigger and its ability are resolved.",
+        "bbox": [
+            124,
+            795,
+            946,
+            843
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(Cards without triggers are also placed into the sideline.)",
+        "bbox": [
+            127,
+            841,
+            601,
+            859
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\\* When checking for triggers on more than one card and multiple triggers are found, the player checking can activate them in any order they like. Each card is activated, resolved, then placed into the sideline, one at a time, before the next of the trigger abilities is activated.",
+        "bbox": [
+            126,
+            860,
+            932,
+            904
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "If you wish to attack with another character, return to Attacking Character Declaration. Otherwise, end the attack phase.",
+        "bbox": [
+            36,
+            931,
+            926,
+            971
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            591,
+            985,
+            798,
+            1000
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "12",
+        "bbox": [
+            947,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            984,
+            310,
+            1000
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5 End Phase",
+        "text_level": 2,
+        "bbox": [
+            53,
+            35,
+            315,
+            61
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Follow the steps listed below.",
+        "text_level": 2,
+        "bbox": [
+            38,
+            85,
+            433,
+            105
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1 If there are any abilities that activate at the start of the end phase, activate and resolve them now.",
+        "bbox": [
+            62,
+            120,
+            848,
+            162
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2 Switch all of your resting characters and sites on your field to active.\n\\*Resting AP cards remain set to resting.",
+        "bbox": [
+            60,
+            171,
+            875,
+            209
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3 If you have more than eight cards in your hand, choose eight cards to keep.\nPlace the remaining cards into your removal area.",
+        "bbox": [
+            60,
+            212,
+            952,
+            261
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4 Any abilities that state they are active until the end of the turn now become inactive.",
+        "bbox": [
+            60,
+            265,
+            907,
+            310
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "After all of the above steps are completed, your opponent's turn begins.",
+        "bbox": [
+            38,
+            318,
+            944,
+            341
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "- When Multiple Abilities Activate Simultaneously",
+        "text_level": 2,
+        "bbox": [
+            40,
+            376,
+            737,
+            399
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "When multiple abilities activate simultaneously during a game, the player controlling the cards with those abilities can resolve them in any order they like. When abilities belonging to both you and your opponent activate simultaneously, the player taking their turn resolves all of their abilities first, followed by the player not taking their turn.\n\\*If the resolution of one ability activates a new ability, that new ability is added to any remaining unresolved abilities and may also be resolved in any order desired.",
+        "bbox": [
+            58,
+            406,
+            968,
+            525
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "- When BP Becomes Zero or Less",
+        "text_level": 2,
+        "bbox": [
+            40,
+            545,
+            519,
+            567
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "When the BP of a character on the field is reduced to zero or less by an ability, that character is sidelined.",
+        "bbox": [
+            58,
+            575,
+            952,
+            614
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "- When a Raided Character on the Field Moves to a Destination Other than the Field",
+        "text_level": 2,
+        "bbox": [
+            40,
+            640,
+            969,
+            663
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "When a Raided character moves to a destination other than the field, move only the top card to that destination. Place the underlying card(s) into your sideline. Those cards are not treated as having been sidelined.",
+        "bbox": [
+            58,
+            670,
+            954,
+            730
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Example) When an ability returns a Raided character to your hand, return only the top card and place all underlying cards into your sideline.",
+        "bbox": [
+            60,
+            732,
+            942,
+            765
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "- Sidelining",
+        "text_level": 2,
+        "bbox": [
+            40,
+            788,
+            205,
+            810
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A card is “sidelined” when it is moved from the field to your sideline after battle, after its BP is reduced to zero or less, or when an ability instructs you to sideline it. Cards are not treated as sidelined when abilities instruct you to “place” them into your sideline, or when they move to some destination other than your sideline, such as your hand or your removal area.",
+        "bbox": [
+            58,
+            818,
+            954,
+            920
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "footer",
+        "text": "",
+        "bbox": [
+            203,
+            984,
+            310,
+            1000
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "13",
+        "bbox": [
+            947,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "- Abilities with the phrasing “{xyz} instead” are phrase substitution abilities.",
+        "text_level": 2,
+        "bbox": [
+            40,
+            42,
+            961,
+            66
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "When the indicated requirements are fulfilled, replace the text inside the first set of {} brackets with the text inside the second set of {} brackets when carrying out the ability.",
+        "bbox": [
+            58,
+            82,
+            952,
+            142
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Example: Consider the following ability. “{Choose up to one character on your opponent's front line and switch it to resting. It} will remain set to resting until the end of their next attack phase. If six or more other [Thirteen Court Guard Squads] affinity cards are on your field, {Choose up to one character on your opponent's front line. Switch it and all characters on your opponent's energy line to resting. They} instead.”",
+        "bbox": [
+            58,
+            162,
+            954,
+            282
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "If you have five or less other [Thirteen Court Guard Squads] affinity cards on your field, the ability is “Choose up to one character on your opponent's front line and switch it to resting. It will remain set to resting until the end of their next attack phase.”",
+        "bbox": [
+            60,
+            284,
+            954,
+            362
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "If you have six or more other [Thirteen Court Guard Squads] affinity cards on your field, the ability becomes “Choose up to one character on your opponent's front line. Switch it and all characters on your opponent's energy line to resting. They will remain set to resting until the end of their next attack phase.”",
+        "bbox": [
+            58,
+            363,
+            954,
+            445
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "footer",
+        "text": "-",
+        "bbox": [
+            203,
+            984,
+            312,
+            1000
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "14",
+        "bbox": [
+            947,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Keyword Abilities",
+        "text_level": 1,
+        "bbox": [
+            321,
+            38,
+            675,
+            66
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/95998e1de3020b7b558ee0052795517200ee479b6a9ef47fccb32738501ed8a0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Step</td><td>During your movement phase, you may move this card from your front line to your energy line.* This movement occurs simultaneously with characters moving from your energy line to your front line.</td></tr><tr><td>Snipe</td><td>You may target a character on your opponent&#x27;s front line and attack it with this character. If you do, your opponent cannot block.* Characters on your opponent&#x27;s front line can be targeted whether they are active or resting.* The active or resting state of targeted characters does not change.* Characters targeted by Snipe do not block, so When Blocking abilities on those characters do not activate. However, a battle still occurs.* Characters with abilities that state they cannot be &quot;chosen&quot; by other abilities can still be targeted for attack.</td></tr><tr><td>Double Attack</td><td>When this character attacks for the first time this turn, switch it to active.</td></tr><tr><td>Double Block</td><td>When this character blocks for the first time this turn, switch it to active.</td></tr><tr><td>Impact 1</td><td>When this character attacks and wins a battle, deal 1 damage to your opponent.*Even if a character gains Impact 1 twice, it still only has Impact 1.</td></tr><tr><td>Impact +1</td><td>Increase Impact damage by 1. If the card does not have Impact, it gains Impact 1.</td></tr><tr><td>damage 2</td><td>When this character attacks and deals direct damage, deal 2 damage instead.* Select two cards in your opponent&#x27;s life. Your opponent will turn them both over and check for triggers at the same time.* Even if a character gains damage 2 twice, it still only has damage 2.</td></tr><tr><td>damage +1</td><td>When this character attacks and deals direct damage, deal 1 additional damage.</td></tr><tr><td>Nullify Impact</td><td>The character battling this character loses Impact for the duration of this battle.</td></tr></table>",
+        "bbox": [
+            43,
+            99,
+            952,
+            859
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "footer",
+        "text": "-",
+        "bbox": [
+            203,
+            984,
+            312,
+            1000
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "15",
+        "bbox": [
+            946,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Game Terms",
+        "text_level": 1,
+        "bbox": [
+            376,
+            40,
+            621,
+            65
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Activation Timing Examples",
+        "text_level": 2,
+        "bbox": [
+            40,
+            99,
+            452,
+            122
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/e24a6c4842f789025679541b77a22b9bb6d0ffdc13b73839534f35779ef814f4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>When Played</td><td>Activates when you play the card onto your field.This ability also activates when the card performs Raid due to a trigger, or when an ability, either on the card or otherwise, plays the card onto the field, even during your opponent&#x27;s turn.</td></tr><tr><td>When Sidelined</td><td>Activates when the card is sidelined.</td></tr><tr><td>When Attacking</td><td>Activates when the card attacks.</td></tr><tr><td>When Blocking</td><td>Activates when the card blocks.</td></tr><tr><td>During Your Turn</td><td>Stays active for the duration of your turn.</td></tr><tr><td>During Opponent&#x27;s Turn</td><td>Stays active for the duration of your opponent&#x27;s turn.</td></tr></table>",
+        "bbox": [
+            43,
+            129,
+            952,
+            453
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Activation Conditions",
+        "text_level": 2,
+        "bbox": [
+            40,
+            482,
+            361,
+            504
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Below are some examples of conditions necessary for activating abilities.\nAn ability will not activate unless all of the conditions listed on it are fulfilled.",
+        "bbox": [
+            40,
+            511,
+            868,
+            554
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/25b87e5107cb5e5a31e767395190654ab793e9dd7feb211bcd6cea6eba384b41.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>If on the Front Line</td><td>Activates when this card is on the front line.</td></tr><tr><td>If on the Energy Line</td><td>Activates when this card is on the energy line.</td></tr><tr><td>Switch to Resting</td><td>Activated by switching this active card to resting.</td></tr><tr><td>Place 1 Card From Hand Into Sideline</td><td>Activated by placing n cards from your hand into your sideline.</td></tr><tr><td>Pay 1 AP</td><td>Activated by paying n AP.</td></tr><tr><td>Sideline This Card</td><td>Activated by sidelining this card.</td></tr><tr><td>Once Per Turn</td><td>Can only be activated one time each turn.\n* If multiple copies of this card are on the field, each copy of the ability can activate one time each turn</td></tr></table>",
+        "bbox": [
+            43,
+            563,
+            951,
+            922
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "footer",
+        "text": "-",
+        "bbox": [
+            203,
+            984,
+            310,
+            1000
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "16",
+        "bbox": [
+            947,
+            969,
+            976,
+            984
+        ],
+        "page_idx": 17
+    }
+]

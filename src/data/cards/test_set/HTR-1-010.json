@@ -1,0 +1,23 @@
+{
+  "cardId": "HTR-1-010",
+  "cardName": "Test Enhancer",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Support"],
+  "requiredEnergy": { "color": "红", "amount": 2 },
+  "apCost": 1,
+  "bp": { "base": 3000 },
+  "energyGeneration": [{ "color": "红", "amount": 1 }],
+  "abilities": [
+    {
+      "abilityId": "HTR-1-010-ABL-1",
+      "timing": "WhenPlayed",
+      "costs": [],
+      "effects": [
+        { "effectType": "BpBuff", "params": { "amount": 1000, "target": "SELF" } }
+      ],
+      "isOptional": false
+    }
+  ],
+  "keywords": []
+}

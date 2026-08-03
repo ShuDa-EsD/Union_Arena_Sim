@@ -1,0 +1,21 @@
+{
+  "cardId": "HTR-1-006",
+  "cardName": "Test Quick Draw",
+  "cardType": "Event",
+  "sourceMaterial": "HTR",
+  "affinities": [],
+  "requiredEnergy": { "color": "白", "amount": 1 },
+  "apCost": 1,
+  "abilities": [
+    {
+      "abilityId": "HTR-1-006-ABL-1",
+      "timing": "WhenPlayed",
+      "costs": [],
+      "effects": [
+        { "effectType": "DrawCard", "params": { "count": 1 } }
+      ],
+      "isOptional": false
+    }
+  ],
+  "keywords": []
+}

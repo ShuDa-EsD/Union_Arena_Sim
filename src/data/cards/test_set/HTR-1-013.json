@@ -1,0 +1,22 @@
+{
+  "cardId": "HTR-1-013",
+  "cardName": "Test Sniper",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Sniper"],
+  "requiredEnergy": { "color": "白", "amount": 1 },
+  "apCost": 1,
+  "bp": { "base": 3000 },
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [],
+  "trigger": {
+    "abilityId": "HTR-1-013-TRG",
+    "timing": "Trigger",
+    "costs": [],
+    "effects": [
+      { "effectType": "DrawCard", "params": { "count": 1 } }
+    ],
+    "isOptional": true
+  },
+  "keywords": ["Snipe"]
+}

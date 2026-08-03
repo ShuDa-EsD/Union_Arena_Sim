@@ -1,0 +1,28 @@
+{
+  "cardId": "HTR-1-018",
+  "cardName": "Test Raid Power",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Heavy"],
+  "requiredEnergy": { "color": "红", "amount": 1 },
+  "apCost": 1,
+  "bp": { "base": 4500 },
+  "energyGeneration": [{ "color": "红", "amount": 1 }],
+  "abilities": [
+    {
+      "abilityId": "HTR-1-018-ABL-1",
+      "timing": "WhenPlayed",
+      "costs": [],
+      "effects": [{ "effectType": "BpBuff", "params": { "amount": 1000 } }],
+      "isOptional": false
+    }
+  ],
+  "raid": {
+    "targetSpecifier": { "type": "Name", "value": "HTR-1-002" },
+    "raidAbilities": [
+      { "abilityId": "RAID-ACTIVE", "timing": "WhenPlayed", "costs": [], "effects": [{ "effectType": "SwitchToActive" }], "isOptional": false },
+      { "abilityId": "RAID-FRONT", "timing": "WhenPlayed", "costs": [], "effects": [{ "effectType": "MoveToFrontLine" }], "isOptional": false }
+    ]
+  },
+  "keywords": []
+}

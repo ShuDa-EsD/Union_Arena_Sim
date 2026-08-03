@@ -1,0 +1,26 @@
+{
+  "cardId": "HTR-1-009",
+  "cardName": "Test Tactician",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Tactician"],
+  "requiredEnergy": { "color": "白", "amount": 1 },
+  "apCost": 1,
+  "bp": { "base": 2500 },
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [
+    {
+      "abilityId": "HTR-1-009-ABL-1",
+      "timing": "ActivateMain",
+      "costs": [
+        { "costType": "SwitchToResting" },
+        { "costType": "PayAp", "params": { "amount": 1 } }
+      ],
+      "effects": [
+        { "effectType": "DrawCard", "params": { "count": 1 } }
+      ],
+      "isOptional": true
+    }
+  ],
+  "keywords": []
+}

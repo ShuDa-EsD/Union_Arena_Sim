@@ -1,0 +1,13 @@
+{
+  "cardId": "HTR-1-003",
+  "cardName": "Test Elite",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Elite"],
+  "requiredEnergy": { "color": "白", "amount": 2 },
+  "apCost": 1,
+  "bp": { "base": 2000 },
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [],
+  "keywords": []
+}

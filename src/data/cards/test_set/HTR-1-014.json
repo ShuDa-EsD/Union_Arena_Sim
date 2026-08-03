@@ -1,0 +1,13 @@
+{
+  "cardId": "HTR-1-014",
+  "cardName": "Test Impactor",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Heavy"],
+  "requiredEnergy": { "color": "白", "amount": 1 },
+  "apCost": 1,
+  "bp": { "base": 4000 },
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [],
+  "keywords": ["Impact 1"]
+}

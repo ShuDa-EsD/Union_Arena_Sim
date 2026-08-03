@@ -1,0 +1,23 @@
+{
+  "cardId": "HTR-1-008",
+  "cardName": "Test Veteran Scout",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Veteran", "Scout"],
+  "requiredEnergy": { "color": "白", "amount": 2 },
+  "apCost": 1,
+  "bp": { "base": 3500 },
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [
+    {
+      "abilityId": "HTR-1-008-ABL-1",
+      "timing": "WhenPlayed",
+      "costs": [],
+      "effects": [
+        { "effectType": "DrawCard", "params": { "count": 1 } }
+      ],
+      "isOptional": false
+    }
+  ],
+  "keywords": []
+}

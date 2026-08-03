@@ -1,0 +1,13 @@
+{
+  "cardId": "HTR-1-004",
+  "cardName": "Test Heavy Hitter",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Heavy"],
+  "requiredEnergy": { "color": "白", "amount": 2 },
+  "apCost": 1,
+  "bp": { "base": 5000 },
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [],
+  "keywords": []
+}

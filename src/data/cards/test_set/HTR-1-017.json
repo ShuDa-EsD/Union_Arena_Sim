@@ -1,0 +1,20 @@
+{
+  "cardId": "HTR-1-017",
+  "cardName": "Test Raid Basic",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Elite"],
+  "requiredEnergy": { "color": "红", "amount": 1 },
+  "apCost": 1,
+  "bp": { "base": 4000 },
+  "energyGeneration": [{ "color": "红", "amount": 1 }],
+  "abilities": [],
+  "raid": {
+    "targetSpecifier": { "type": "Name", "value": "HTR-1-001" },
+    "raidAbilities": [
+      { "abilityId": "RAID-SWITCH-ACTIVE", "timing": "WhenPlayed", "costs": [], "effects": [{ "effectType": "SwitchToActive" }], "isOptional": false },
+      { "abilityId": "RAID-MOVE-FRONT", "timing": "WhenPlayed", "costs": [], "effects": [{ "effectType": "MoveToFrontLine" }], "isOptional": false }
+    ]
+  },
+  "keywords": []
+}

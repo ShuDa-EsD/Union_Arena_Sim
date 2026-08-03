@@ -1,0 +1,13 @@
+{
+  "cardId": "HTR-1-020",
+  "cardName": "Test Mobile Defender",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Defender"],
+  "requiredEnergy": { "color": "白", "amount": 2 },
+  "apCost": 1,
+  "bp": { "base": 3000 },
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [],
+  "keywords": ["Step", "Nullify Impact"]
+}

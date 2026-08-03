@@ -1,0 +1,23 @@
+{
+  "cardId": "HTR-1-007",
+  "cardName": "Test Scout",
+  "cardType": "Character",
+  "sourceMaterial": "HTR",
+  "affinities": ["Hunter", "Scout"],
+  "requiredEnergy": { "color": "白", "amount": 1 },
+  "apCost": 1,
+  "bp": { "base": 3000 },
+  "energyGeneration": [{ "color": "白", "amount": 1 }],
+  "abilities": [
+    {
+      "abilityId": "HTR-1-007-ABL-1",
+      "timing": "WhenPlayed",
+      "costs": [],
+      "effects": [
+        { "effectType": "DrawCard", "params": { "count": 1 } }
+      ],
+      "isOptional": false
+    }
+  ],
+  "keywords": []
+}

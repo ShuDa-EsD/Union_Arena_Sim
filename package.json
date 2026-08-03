@@ -1,0 +1,23 @@
+{
+  "name": "union-arena-sim",
+  "version": "0.1.0",
+  "description": "Union Arena Digital TCG — Console-based Rule Simulator (MVP)",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "scenario": "npx ts-node src/index.ts",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["tcg", "card-game", "union-arena", "simulator"],
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.3.0"
+  }
+}

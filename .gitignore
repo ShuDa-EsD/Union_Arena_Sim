@@ -1,0 +1,5 @@
+node_modules/
+dist/
+coverage/
+*.log
+CLAUDE - 副本.txt

@@ -1,0 +1,72 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  color: #1a1a1a;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 14px;
+  border-bottom: 1px solid #ccc;
+  background: #f7f7f7;
+}
+.topbar h1 { font-size: 16px; margin: 0; }
+.toolbar { display: flex; align-items: center; gap: 6px; }
+.toolbar button { padding: 4px 10px; }
+.new-group { display: flex; align-items: center; gap: 4px; margin-right: 12px; }
+.new-group .label { font-size: 12px; color: #666; }
+
+.layout { display: flex; flex: 1; overflow: hidden; }
+.panel { padding: 12px; overflow: auto; }
+
+#card-list-panel { width: 230px; border-right: 1px solid #ccc; }
+#form-panel { flex: 1; }
+#side-panel { width: 320px; border-left: 1px solid #ccc; background: #fafafa; }
+
+.statusbar { padding: 6px 14px; border-top: 1px solid #ccc; font-size: 12px; color: #555; }
+
+.placeholder { color: #999; padding: 24px; text-align: center; }
+
+.field { margin-bottom: 12px; }
+.field > label { display: block; font-size: 12px; color: #444; margin-bottom: 3px; }
+.field input[type="text"], .field input[type="number"], .field select, .field textarea {
+  width: 100%;
+  padding: 5px 7px;
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  font-size: 13px;
+}
+
+.json-invalid { border-color: #c00 !important; background: #fdecec; }
+
+.ability-box, .trigger-box, .raid-box {
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 8px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+}
+.ability-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
+.ability-header button { font-size: 11px; }
+
+.keyword-tags label { display: inline-block; margin: 0 10px 6px 0; font-size: 13px; }
+
+#card-list { list-style: none; padding: 0; margin: 8px 0 0; }
+#card-list li { padding: 5px 7px; cursor: pointer; border-radius: 3px; font-size: 13px; }
+#card-list li:hover { background: #eee; }
+
+#validation .error { color: #c00; }
+#validation .ok { color: #178a17; }
+#validation ul { margin: 4px 0 0; padding-left: 18px; font-size: 12px; }
+
+#preview { font-size: 12px; }
+.preview-card { font-weight: 600; margin-bottom: 4px; }
+.preview-ability { margin-left: 6px; color: #333; }
+.muted { color: #999; }

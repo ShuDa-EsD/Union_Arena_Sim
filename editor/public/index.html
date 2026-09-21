@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Union Arena Card Editor</title>
+  <link rel="stylesheet" href="editor.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Union Arena Card Editor</h1>
+    <div class="toolbar">
+      <span class="new-group">
+        <span class="label">New:</span>
+        <button class="new-type" data-type="Character">Character</button>
+        <button class="new-type" data-type="Site">Site</button>
+        <button class="new-type" data-type="Event">Event</button>
+        <button class="new-type" data-type="AP">AP</button>
+      </span>
+      <button id="btn-undo" disabled>Undo</button>
+      <button id="btn-redo" disabled>Redo</button>
+      <button id="btn-save">Save</button>
+      <button id="btn-export">Export</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="panel" id="card-list-panel">
+      <h2>Cards</h2>
+      <button id="btn-refresh">Refresh</button>
+      <ul id="card-list"></ul>
+    </aside>
+
+    <main class="panel" id="form-panel">
+      <div id="form-empty" class="placeholder">Select a card on the left, or create a new one above.</div>
+      <div id="form-fields" hidden></div>
+    </main>
+
+    <aside class="panel" id="side-panel">
+      <section>
+        <h2>Validation</h2>
+        <div id="validation"></div>
+      </section>
+      <section>
+        <h2>Keyword Expansion Preview</h2>
+        <div id="preview"></div>
+      </section>
+    </aside>
+  </div>
+
+  <footer id="status" class="statusbar">Ready.</footer>
+
+  <script src="editor.js"></script>
+</body>
+</html>
